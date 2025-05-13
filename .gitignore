@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.cache
+*.aps
+*.ncb
+*.sdf
+*.opendb
+*.ipch/
+*.tlog
+*.log
+*.pdb
+*.obj
+*.idb
+*.lastbuildstate
+*.unsuccessfulbuild
+*.exe
+
+# Diretórios de compilação
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Copilot
+.vs/game/CopilotIndices/
+.vs/game/FileContentIndex/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
